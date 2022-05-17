@@ -6,18 +6,18 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
+      "text": "Projects",
+      "url": "/projects"
     },
     {
-      "text": "Example Contact Page",
+      "text": "Contact",
       "url": "/contact",
       "external": false
     },
     {
-      "text": "Projects",
-      "url": "/projects"
+      "text": "GitHub",
+      "url": "https://github.com/elFani/hylia-starter",
+      "external": true
     }
   ]
 }
