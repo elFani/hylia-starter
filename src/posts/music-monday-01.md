@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Music Monday: R.E.M.: E-Bow the Letter"
+metaTitle: "Music Monday: R.E.M.: E-Bow the Letter"
 date: 2020-03-16T21:53:29.121Z
 tags:
   - music-monday
