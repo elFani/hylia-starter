@@ -1,14 +1,17 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
+title: Hello and Welcome
+metaTitle: Welcome to Phillip Faniola's digital space
+metaDesc: Welcome to my space for a blog, collections, and general playground
+  for all things web.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Hello there - this is first CMS edit.
+hello - buen día - bom dia - ciao - 안영
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Welcome to my space for a blog, collections, and general playground for all things web.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+My name is Phillip Faniola and I am web developer and designer with 15+ years experience. Have a look at the About section for a bit more detail about me and this space.
+
+Enjoy. *Que disfruten.*
