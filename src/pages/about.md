@@ -6,7 +6,7 @@ metaTitle: Phillip Faniola
 ---
 Hi, I'm Phillip and I'm interested in what happens when art meets the web.
 
-I have 12+ years experience in frontend development, interface design, and UX design. I'm a former senior developer for the marketing arm of global retailer and UX Designer/frontend dev at UC San Diego, after managing the U.S. Soccer Federation's online presence and co-creating mobile app.
+I have 12+ years experience in frontend development, interface design, and UX design. I'm a former senior developer for the marketing arm of a global, video analytics company and UX Designer/frontend dev at UC San Diego, after managing the U.S. Soccer Federation's online presence and co-creating mobile app.
 
 I'm fluent in English and Spanish with working competency in Portuguese.
 
