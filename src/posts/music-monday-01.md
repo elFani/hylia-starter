@@ -1,8 +1,10 @@
 ---
 layout: layouts/post.njk
-title: Music Monday 01
+title: "Music Monday: R.E.M.: E-Bow the Letter"
 date: 2021-06-16T21:53:29.121Z
 tags:
-  - musicmonday
+  - music-monday
 ---
-First music monday post
+All all-time great
+
+<iframe width="2231" height="1169" src="https://www.youtube.com/embed/5cnIQHJ169s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
