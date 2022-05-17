@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Accessible Web Application for Students with Disabilities
+title: Accessible Web Application for Students with Disabilities at UC San Diego
 metaTitle: Accessible Web Application for Students with Disabilities A11y
 metaDesc: Accessible Web Application for Students with Disabilities
 date: 2020-07-26T23:14:07.710Z
