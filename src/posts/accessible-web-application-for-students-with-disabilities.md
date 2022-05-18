@@ -6,6 +6,7 @@ metaDesc: Accessible Web Application for Students with Disabilities
 date: 2020-07-26T23:14:07.710Z
 tags:
   - projects
+  - accessibility
 ---
 The Office for Students with Disabilities (OSD) at UC San Diego requested process improvement in the way that students receive accommodations for classes. As part of a three-person development team, we took a manual, paper process into a digital workflow, including a web app with special affordances for accessibility and mobile.
 
