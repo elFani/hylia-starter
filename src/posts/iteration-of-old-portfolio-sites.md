@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Iteration of old portfolio sites
 metaTitle: Iteration of old portfolio sites
 metaDesc: Iteration of old portfolio sites
-date: 2022-05-18T21:13:30.646Z
+date: 2022-05-05T21:13:30.646Z
 tags:
   - development
   - portfolio
