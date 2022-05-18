@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: UC San Diego Pattern Library
 metaTitle: UC San Diego Pattern Library
-date: 2020-07-27T01:41:27.766Z
+date: 2020-07-26T22:41:27.766Z
 tags:
   - projects
   - design-system
