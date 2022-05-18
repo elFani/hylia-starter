@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/project-page.njk
 title: Projects
 permalink: /projects/index.html
 ---
