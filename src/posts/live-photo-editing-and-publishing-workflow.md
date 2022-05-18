@@ -4,13 +4,13 @@ title: Live Photo Editing and Publishing Workflow - ESPN, Instagram, MLB, US
   Olympic Committee, US Soccer
 metaTitle: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US
   Olympic Committee
-date: 2020-07-27T01:48:14.079Z
+date: 2020-07-26T22:48:14.079Z
 tags:
   - projects
   - photography
   - digital-workflows
 ---
-Along with my partner at isiphotos.com, we created a solution to provide professional-level, edited photographs to clients on an as-live basis during events. The process was first put to the test at the 2014 FIFA World Cup in Brasil, and after a successful run, we partnered with Facebook and Instagram to create an “Insta-booth” for live events. We ran the Insta-booth style photo shoots at the ESPN X-Games, MLB All-Star Game, the US Women’s National Team, and USOC for the 2016 Rio Games.
+Along with my partner at [isiphotos.com](isiphotos.com), we created a solution to provide professional-level, edited photographs to clients on an as-live basis during events. The process was first put to the test at the 2014 FIFA World Cup in Brasil, and after a successful run, we partnered with Facebook and Instagram to create an “Insta-booth” for live events. We ran the Insta-booth style photo shoots at the ESPN X-Games, MLB All-Star Game, the US Women’s National Team, and USOC for the 2016 Rio Games.
 
 ![Alex Morgan in front of US flag.](/images/alex-m.jpg "Alex Morgan of the USWNT. Photo by John Todd & Phillip Faniola")
 
@@ -48,10 +48,6 @@ In a studio environment, we employed a similar setup; the main difference being 
 
 ![Bryce Harper tossing a baseball.](/images/harper-mlb.jpeg "Bryce Harper before the 2015 MLB All-Star Game. Photo by John Todd & Phillip Faniola")
 
-
-
 ![Kyle Baldock holds up his X-Games gold medal.](/images/baldock-xgames.jpeg "Kyle Baldock displays his BMX X-Games gold medal. Photo by John Todd & Phillip Faniola")
-
-
 
 ![Carmelo Anthony in front of US flag.](/images/melo-usabb.jpeg "Carmelo Anthony before the 2014 Rio Olympic Games. Photo by John Dorton & Phillip Faniola & Scott Myers")
