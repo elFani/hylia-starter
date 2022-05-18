@@ -4,7 +4,7 @@ title: Live Photo Editing and Publishing Workflow - ESPN, Instagram, MLB, US
   Olympic Committee, US Soccer
 metaTitle: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US
   Olympic Committee
-date: 2020-07-26T22:48:14.079Z
+date: 2019-10-11T22:48:14.079Z
 tags:
   - projects
   - photography
