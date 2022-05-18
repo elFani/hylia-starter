@@ -1,7 +1,9 @@
 ---
 layout: layouts/post.njk
-title: Live Photo Editing and Publishing Workflow
-metaTitle: Live Photo Editing and Publishing Workflow
+title: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US Olympic
+  Committee
+metaTitle: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US
+  Olympic Committee
 date: 2020-07-27T01:48:14.079Z
 tags:
   - projects
