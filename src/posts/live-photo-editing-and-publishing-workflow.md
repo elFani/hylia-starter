@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US Olympic
-  Committee
+title: Live Photo Editing and Publishing Workflow - ESPN, Instagram, MLB, US
+  Olympic Committee, US Soccer
 metaTitle: Live Photo Editing and Publishing Workflow - ESPN, Instagram, US
   Olympic Committee
 date: 2020-07-27T01:48:14.079Z
@@ -10,7 +10,9 @@ tags:
   - photography
   - digital-workflows
 ---
-Along with my partner at isiphotos.com, we created a solution to provide professional-level, edited photographs to clients on an as-live basis during events. The process was first put to the test at the 2014 FIFA World Cup in Brasil, and after a successful run, we partnered with Facebook and Instagram to create an “Insta-booth” for live events. We ran the Insta-booth style photo shoots at the ESPN X-Games, MLB All-Star Game, the US Women’s National Team, and USOC athlete processing for the 2016 Rio Games.
+Along with my partner at isiphotos.com, we created a solution to provide professional-level, edited photographs to clients on an as-live basis during events. The process was first put to the test at the 2014 FIFA World Cup in Brasil, and after a successful run, we partnered with Facebook and Instagram to create an “Insta-booth” for live events. We ran the Insta-booth style photo shoots at the ESPN X-Games, MLB All-Star Game, the US Women’s National Team, and USOC for the 2016 Rio Games.
+
+![Alex Morgan in front of US flag.](/images/alex-m.jpg "Alex Morgan of the USWNT. Photo by John Todd & Phillip Faniola")
 
 ## The Task
 
