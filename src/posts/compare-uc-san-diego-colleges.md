@@ -3,9 +3,10 @@ layout: layouts/post.njk
 title: Compare UC San Diego Colleges
 metaTitle: Compare UC San Diego Colleges
 metaDesc: creation of the Compare Tool to Compare UC San Diego Colleges
-date: 2020-07-26T23:09:17.561Z
+date: 2021-02-11T17:09:17.561Z
 tags:
   - projects
+  - ui-design
 ---
 This utility for prospective UC San Diego students allows an applicant to compare and contrast the seven UCSD Colleges across three major criteria, as well as see a map of the general College Neighborhoods on campus.
 
