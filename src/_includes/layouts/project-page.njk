@@ -8,7 +8,7 @@
 
 {# Post list content #}
 {% set postListHeading = 'Portfolio projects' %}
-{% set postListItems = collections.projects %}
+{% set postListItems = collections.projects | reverse %}
 
 {{ content | safe }}
 
