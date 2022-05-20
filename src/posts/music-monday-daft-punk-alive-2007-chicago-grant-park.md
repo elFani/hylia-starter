@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Music Monday: Daft Punk Alive 2007, Chicago, Grant Park"
 metaTitle: "Music Monday: Daft Punk Alive 2007, Chicago, Grant Park"
-date: 2022-05-19T23:57:57.458Z
+date: 2021-03-01T00:57:57.458Z
 tags:
   - music-monday
   - daft-punk
