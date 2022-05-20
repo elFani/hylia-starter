@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Music Monday: The Dead Weather - Will There Be Enough Water (live)"
 metaTitle: "Music Monday: The Dead Weather - Will There Be Enough Water (live)"
-date: 2022-05-20T00:15:13.518Z
+date: 2019-11-12T16:15:13.518Z
 tags:
   - music-monday
   - the-dead-weather
