@@ -8,4 +8,6 @@ tags:
   - development
   - workflows
 ---
-The Graduate Division of UC San Diego managed a manual workflow
+The Graduate Division of UC San Diego in conjunction with representatives from each academic department managed a manual workflow on quarterly basis in to determine how much funding graduate students should and would receive according to multitude of criteria, including employment, citizenship, and fellowship/grant awards.
+
+As part of a four person development team, interfacing with two distinct stakeholder groups, we created an Angular web application for the Departments to manage awards and funds for
