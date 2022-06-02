@@ -27,3 +27,9 @@ Additionally, this disparate sources of data were quite challenging in terms of 
 In terms of process, it was going to be a complete, foundational shift for Graduate Division and Departments to accomplish this. This was a completely new way of handling a very time and labor intensive process - not to mention that Grad students' livelihood really depended on this going smoothly. Hiccups in the process meant that they would not get paid for that pay period.
 
 ## The Solution
+
+We created an Angular application that allowed Department staff to not only view a student profile, with combined data from various sources, but also a "fund profile" indexed by award so that they could have insight into different funding sources and what hand been allocated to each student. Additionally, there was visibility into the review/approval process surfaced in the app which granted insight into the status of awards to Departments that had never existed before.
+
+To help with redundant data entry, we developed "Batch entry mode," to improve efficiency and user experience.
+
+The Graduate Division benefited in that the Departments were essentially taking over the data entry portion by managing their own students and submitting awards directly into the Award Module database. They could then shift focus to review and approval, ensuring accurate and correct awards were given to students.
