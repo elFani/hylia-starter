@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: "Music Monday: Arcade Fire, Here Comes the Night featurette"
-metaTitle: "Music Monday: Arcade Fire, Here Comes the Night featurette"
+title: "Music Monday: Arcade Fire, Here Comes the Night Time featurette"
+metaTitle: "Music Monday: Arcade Fire, Here Comes the Night Time featurette"
 date: 2022-06-06T15:41:50.917Z
 tags:
   - music-monday
