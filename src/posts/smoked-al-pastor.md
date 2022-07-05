@@ -34,7 +34,7 @@ In general, all amounts are more guidelines than strict directions. I have combi
 1/2 cup of orange juice
 1/2 cup of pineapple juice
 3/4 cup white vinegar (can substitute apple cider or use 50/50 mix)
-1/2 cup chicken stock
+3/4 cup chicken stock (can substitute vegetable stock)
 
 (overall liquid amounts can be adjusted for taste and consistency as you prefer)
 
@@ -65,6 +65,6 @@ After thinly slicing the pork, place in bowl and mix with marinade until all sur
 
 Place covered pork into sealed container or bag and leave in fridge overnight. You can also slice the pineapple the night before and store, or slice it right before you start the smoker.
 
-Prepare vertical skewer and preheat smoker to 265-275F (hotter smoke temp with help with getting charred edges). Put skewer in disposable cake/pie pan to catch juices/fat as it drips off of the trompo (pork stack).  Stack slices of marinated pork on the skewer; top with a slice of pineapple (place slice at bottom optionally as well). 
+Assemble vertical skewer and preheat smoker to 265-275F (hotter smoke temp with help with getting charred edges). Put skewer in disposable cake/pie pan to catch juices/fat as it drips off of the trompo (pork stack).  Stack slices of marinated pork on the skewer; top with a slice of pineapple (place slice at bottom optionally as well). 
 
 Smoke for 4 hours and check internal temp is above 175F. Baste the trompo every 20-30 minutes from juices in the catch pan during the smoke process. Use any wood for smoking that goes well with pork - typically fruit tree woods (apple/cherry)
