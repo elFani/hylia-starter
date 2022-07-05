@@ -19,39 +19,39 @@ In general, all amounts are more guidelines than strict directions. I have combi
 
 ### CHILES (USE AT LEAST 2 OF 3 LISTED)
 
-4 dried guajillo chile \
-2 dried ancho chili peppers\
-2 chipotle chili peppers in adobo sauce
+* 4 dried guajillo chile 
+* 2 dried ancho chili peppers
+* 2 chipotle chili peppers in adobo sauce
 
 ### STANDARD MIXINS
 
-4 cloves of garlic\
-1/2 onion\
-2 Tablespoons butter
+* 4 cloves of garlic
+* 1/2 onion
+* 2 Tablespoons butter
 
 ### LIQUIDS
 
-1/2 cup of orange juice\
-1/2 cup of pineapple juice\
-3/4 cup white vinegar (can substitute apple cider or use 50/50 mix)
-3/4 cup chicken stock (can substitute vegetable stock)
+* 1/2 cup of orange juice
+* 1/2 cup of pineapple juice
+* 3/4 cup white vinegar (can substitute apple cider or use 50/50 mix)
+* 3/4 cup chicken stock (can substitute vegetable stock)
 
 (overall liquid amounts can be adjusted for taste and consistency as you prefer)
 
 ### DRY
 
-1.5 Tablespoons achiote powder (or paste)
-2 teaspoons cumin
-2 teaspoons Mexican oregano
-1.5 Tablespoons kosher salt
-1 Tablespoon of thyme
-1 teaspoon of paprika
-1 Tablespoon sugar
-1 Tablespoon of pepper
+* 1.5 Tablespoons achiote powder (or paste)
+* 2 teaspoons cumin
+* 2 teaspoons Mexican oregano
+* 1.5 Tablespoons kosher salt
+* 1 Tablespoon of thyme
+* 1 teaspoon of paprika
+* 1 Tablespoon sugar
+* 1 Tablespoon of pepper
 
 ### OPTIONAL
 
-3 Cloves
+* 3 Cloves
 
 Prepare the marinade. In a medium saucepan, melt butter and sweat onions and garlic until fragrant. Add all liquids (aside from vinegar) and chiles to the pan and bring to a boil. Cook the peppers and onions in the stock for 4-5 minutes. Reduce the heat to low and stir in the dry ingredients and vinegar. Simmer the marinade for 4-5 more minutes.
 
