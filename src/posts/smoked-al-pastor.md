@@ -19,20 +19,20 @@ In general, all amounts are more guidelines than strict directions. I have combi
 
 ### CHILES (USE AT LEAST 2 OF 3 LISTED)
 
-4 dried guajillo chile 
-2 dried ancho chili peppers
+4 dried guajillo chile \
+2 dried ancho chili peppers\
 2 chipotle chili peppers in adobo sauce
 
 ### STANDARD MIXINS
 
-4 cloves of garlic
-1/2 onion
+4 cloves of garlic\
+1/2 onion\
 2 Tablespoons butter
 
 ### LIQUIDS
 
-1/2 cup of orange juice
-1/2 cup of pineapple juice
+1/2 cup of orange juice\
+1/2 cup of pineapple juice\
 3/4 cup white vinegar (can substitute apple cider or use 50/50 mix)
 3/4 cup chicken stock (can substitute vegetable stock)
 
