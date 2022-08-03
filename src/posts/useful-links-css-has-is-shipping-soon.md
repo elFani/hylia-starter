@@ -7,7 +7,7 @@ tags:
   - useful-links
   - css
 ---
-I just read today that :has() will be shipping in Chrome 105. With it already available in Safari, and shipping soon in Firefox.
+I just read today that :has() will be shipping in Chrome 105. It is already available in Safari, and shipping soon in Firefox.
 
 Here is a little link from the Chrome blog on usage and tips:
 
